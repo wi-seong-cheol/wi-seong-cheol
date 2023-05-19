@@ -28,7 +28,7 @@
 ### 👍 Charts
 <p>
     
-  [![Anurag's github stats](https://github-readme-stats-bice-xi-19.vercel.app/api?username=wi-seong-cheol&count_private=true&hide=stars&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wi-seong-cheol&count_private=true&hide=stars&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjd9248)](https://solved.ac/tjd9248)
 </p>
