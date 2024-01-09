@@ -43,5 +43,7 @@ NFT 기술을 이용하여 작가들은 작품들을 NFT로 발급하여 저작�
 
 ### 👍 Charts
 <p>
+  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjd9248)](https://solved.ac/tjd9248)
+  
 </p>
